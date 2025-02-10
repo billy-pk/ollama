@@ -1,4 +1,4 @@
-**DocSearch**
+# DocSearch
 
 Streamlit RAG Application using DeekSeek-r1:1.5b running locally, based on Langchain framework
 
